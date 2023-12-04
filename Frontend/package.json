@@ -1,0 +1,63 @@
+{
+  "name": "cpias",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/react": "^2.8.1",
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^14.4.3",
+    "@types/jest": "^28.1.8",
+    "@types/react": "^18.2.21",
+    "@types/react-dom": "^18.2.7",
+    "axios": "^1.5.0",
+    "d3": "^7.8.5",
+    "framer-motion": "^6.5.1",
+    "humps": "^2.0.1",
+    "neo4jd3": "^0.0.5",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-graph-vis": "^1.0.7",
+    "react-hook-form": "^7.47.0",
+    "react-icons": "^3.11.0",
+    "react-router-dom": "^6.16.0",
+    "react-scripts": "5.0.1",
+    "react-textarea-autosize": "^8.5.3",
+    "typescript": "^4.9.5",
+    "util": "^0.12.5",
+    "uuidv4": "^6.2.13",
+    "vis-network": "^9.1.8",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "lint": "eslint src",
+    "start:proxy": "node setupProxy.js"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "@types/d3": "^7.4.2",
+    "@types/humps": "^2.0.4",
+    "eslint": "^8.53.0",
+    "eslint-plugin-react": "^7.27.1",
+    "@types/node": "^20.9.1"
+  }
+}

@@ -1,0 +1,13 @@
+[Unit]
+Description=Gunicorn instance to serve the search engine and networking platform in the healthcare AI field.
+After=network.target
+
+[Service]
+User=ubuntu
+Group=www-data
+WorkingDirectory=/home/ubuntu/project_4/Backend/src
+Environment="PATH=/home/ubuntu/project_4/Backend/venv/bin"
+ExecStart=/home/ubuntu/project_4/Backend/venv/bin/gunicorn -c gunicorn_config.py
+
+[Install]
+WantedBy=multi-user.target

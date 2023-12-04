@@ -1,0 +1,510 @@
+{
+    "profiles": {
+        "1": {
+            "name": "Mariem A.",
+            "about": null,
+            "current_job_title": "Analyste technico-commercial",
+            "current_company": "Axelys",
+            "experiences": [
+                {
+                    "position_title": "Analyste technico-commercial",
+                    "institution_name": "Axelys",
+                    "description": "Analyse du potentiel technico-commercial des projets d\u2019innovation issus de la recherche publique.\nValorisation de la recherche et transfert technologique.\nAnalyse du potentiel technico-commercial des projets d\u2019innovation issus de la recherche publique. Valorisation de la recherche et transfert technologique.",
+                    "duration": "4 mos",
+                    "from_date": "Aug 2023",
+                    "to_date": "Present",
+                    "location": ""
+                },
+                {
+                    "position_title": "Founder",
+                    "institution_name": "applicare.ai",
+                    "description": "My entrepreneurial journey:\n- Participant of the Spring 2021 cohort of the Quebec Scientific Entrepreneurship Program (QcSE)/Fonds de recherche du Qu\u00e9bec (FRQ) at District 3.\n- Participant of the Market Discovery Fall 2021 Cohort at Discrict 3.\n- Participant of the Winter 2022 cohort of Validation at District 3.\n- Participant of the Summer 2022 cohort of Launch & Grow at District 3 (from May to July 2022).\n- Made it to the Alpha+ journey of the Cooperathon 2022 (among the best 14 Alpha projects). applicare.ai finished top 4 during the Coop\u00e9rathon Grand Prix annoucement on Dec 1st.\n- in 2023, applicare.ai benefits from the support of Defi Montreal the largest accelerator programs in Quebec. applicare.ai is also part of the Desjardins/MTL NewTech Foundry support program dedicated to the selected teams of the Coop\u00e9rathon Alpha+ journey.\n- Member MEDTEQ+.\nMy entrepreneurial journey: - Participant of the Spring 2021 cohort of the Quebec Scientific Entrepreneurship Program (QcSE)/Fonds de recherche du Qu\u00e9bec (FRQ) at District 3. - Participant of the Market Discovery Fall 2021 Cohort at Discrict 3. - Participant of the Winter 2022 cohort of Validation at District 3. - Participant of the Summer 2022 cohort of Launch & Grow at District 3 (from May to July 2022). - Made it to the Alpha+ journey of the Cooperathon 2022 (among the best 14 Alpha projects). applicare.ai finished top 4 during the Coop\u00e9rathon Grand Prix annoucement on Dec 1st. - in 2023, applicare.ai benefits from the support of Defi Montreal the largest accelerator programs in Quebec. applicare.ai is also part of the Desjardins/MTL NewTech Foundry support program dedicated to the selected teams of the Coop\u00e9rathon Alpha+ journey. - Member MEDTEQ+.",
+                    "duration": "2 yrs 7 mos",
+                    "from_date": "May 2021",
+                    "to_date": "Present",
+                    "location": "Montreal, Quebec, Canada"
+                },
+                {
+                    "position_title": "Mentor MILA MENTORSHIP PROGRAM (third cohort)",
+                    "institution_name": "Mila - Quebec Artificial Intelligence Institute",
+                    "description": "Draw on my experience, my judgment and my good will to support the personal and professional development goals of my mentee.\nDraw on my experience, my judgment and my good will to support the personal and professional development goals of my mentee.",
+                    "duration": "10 mos",
+                    "from_date": "Feb 2023",
+                    "to_date": "Present",
+                    "location": ""
+                },
+                {
+                    "position_title": "B\u00e9n\u00e9vole",
+                    "institution_name": "\u00c9IAS - \u00c9cole de l\u2019intelligence artificielle en sant\u00e9 du CHUM - CHUM School of AI in Health",
+                    "description": "Founder and member of the organizing team of the Communut\u00e9 de Pratique IA en sant\u00e9: de la recherche \u00e0 l'application\nFounder and member of the organizing team of the Communut\u00e9 de Pratique IA en sant\u00e9: de la recherche \u00e0 l'application\nCommunaut\u00e9 de Pratique IA en sant\u00e9 : de la RECHERCHE \u00e0 l'APPLICATION - \u00c9cole de l'intelligence artificielle en sant\u00e9",
+                    "duration": "2 yrs 9 mos",
+                    "from_date": "Mar 2021",
+                    "to_date": "Present",
+                    "location": ""
+                },
+                {
+                    "position_title": "B\u00e9n\u00e9vole",
+                    "institution_name": "Hacking Health Montr\u00e9al",
+                    "description": "",
+                    "duration": "1 yr",
+                    "from_date": "Dec 2022",
+                    "to_date": "Present",
+                    "location": ""
+                },
+                {
+                    "position_title": "Tutor",
+                    "institution_name": "Universit\u00e9 T\u00c9LUQ \u00b7 Permanent Full-time",
+                    "description": "I am the tutor of the machine learning course in the science and technology department at T\u00e9luq university,\nI am the tutor of the machine learning course in the science and technology department at T\u00e9luq university,",
+                    "duration": "3 yrs 8 mos",
+                    "from_date": "Apr 2020",
+                    "to_date": "Present",
+                    "location": "Montreal, Quebec, Canada"
+                },
+                {
+                    "position_title": "Tutrice",
+                    "institution_name": "T\u00e9luq University \u00b7 Permanent Full-time",
+                    "description": "I am the tutor of the machine learning course in the science and technology department at T\u00e9luq university, I help students understand the objectives of the course.\nI am the tutor of the machine learning course in the science and technology department at T\u00e9luq university, I help students understand the objectives of the course.",
+                    "duration": "4 yrs 1 mo",
+                    "from_date": "Feb 2017",
+                    "to_date": "Feb 2021",
+                    "location": "Montreal, Canada"
+                },
+                {
+                    "position_title": "PHD Student",
+                    "institution_name": "INSA Rennes",
+                    "description": "Title: Implementation of dataflow-based video decoders on hardware platforms, with HEVC as study use case.\nMy thesis work is in the context of compression of images and videos, by proposing methods of the optimization of the algorithms of image coding as well as the algorithms of rapid prototyping from the video coding algorithms in the embedded systems.\nTitle: Implementation of dataflow-based video decoders on hardware platforms, with HEVC as study use case. My thesis work is in the context of compression of images and videos, by proposing methods of the optimization of the algorithms of image coding as well as the algorithms of rapid prototyping from the video coding algorithms in the embedded systems.",
+                    "duration": "4 yrs 8 mos",
+                    "from_date": "Sep 2011",
+                    "to_date": "Apr 2016",
+                    "location": "Rennes Area, France"
+                },
+                {
+                    "position_title": "Teaching Assistant",
+                    "institution_name": "\u00c9cole Nationale d'Electronique et des T\u00e9l\u00e9communications de Sfax (ENET'Com)",
+                    "description": "Prepared and taught lab works for undergraduate level Java course\nTaught c2i-computer skills certificate\nTaught undergraduate level course \" design of information systems-Merise-\"\nPrepared and taught lab works for undergraduate level Java course Taught c2i-computer skills certificate Taught undergraduate level course \" design of information systems-Merise-\"",
+                    "duration": "1 yr 10 mos",
+                    "from_date": "Sep 2011",
+                    "to_date": "Jun 2013",
+                    "location": "Sfax Governorate, Tunisia"
+                },
+                {
+                    "position_title": "Research Intern",
+                    "institution_name": "Telecom ParisTech",
+                    "description": "Implementation of a method to sparsify redundant wavelet transform for image coding\nImplementation of a method to sparsify redundant wavelet transform for image coding",
+                    "duration": "6 mos",
+                    "from_date": "Nov 2010",
+                    "to_date": "Apr 2011",
+                    "location": "Paris Area, France"
+                },
+                {
+                    "position_title": "Software Engineer",
+                    "institution_name": "VERMEG for Insurance & Finance Software",
+                    "description": "Created Financial reports using the Jasper reporting engine for the Nordea Bank customer\nHelped the R&D team to upgrade the Megara product under the Palmyra Java EE framework\nCreated Financial reports using the Jasper reporting engine for the Nordea Bank customer Helped the R&D team to upgrade the Megara product under the Palmyra Java EE framework",
+                    "duration": "1 yr 2 mos",
+                    "from_date": "Aug 2008",
+                    "to_date": "Sep 2009",
+                    "location": "Tunis Governorate, Tunisia"
+                },
+                {
+                    "position_title": "Intern",
+                    "institution_name": "VERMEG for Insurance & Finance Software",
+                    "description": "Implemented an API and an editor for the manipulation of SWIFT messages under the Service Oriented Architecture (SOA)\nImplemented an API and an editor for the manipulation of SWIFT messages under the Service Oriented Architecture (SOA)",
+                    "duration": "5 mos",
+                    "from_date": "Feb 2008",
+                    "to_date": "Jun 2008",
+                    "location": "Tunis Governorate, Tunisia"
+                },
+                {
+                    "position_title": "Research Intern",
+                    "institution_name": "ENSI - Ecole Nationale des Sciences de l'Informatique",
+                    "description": "Implementation of a Decision Support System that supports several algorithms of segmentation-for medical images\nImplementation of a Decision Support System that supports several algorithms of segmentation-for medical images",
+                    "duration": "4 mos",
+                    "from_date": "Feb 2007",
+                    "to_date": "May 2007",
+                    "location": "Mannouba Governorate, Tunisia"
+                }
+            ]
+        },
+        "2": {
+            "name": "Amal KHABOU, PhD",
+            "about": null,
+            "current_job_title": "High Performance Computing Researcher",
+            "current_company": "Institut de recherche d'Hydro-Qu\u00e9bec (Research institute of Hydro-Qu\u00e9bec) \u00b7 Permanent Full-time",
+            "experiences": [
+                {
+                    "position_title": "High Performance Computing Researcher",
+                    "institution_name": "Institut de recherche d'Hydro-Qu\u00e9bec (Research institute of Hydro-Qu\u00e9bec) \u00b7 Permanent Full-time",
+                    "description": "",
+                    "duration": "8 mos",
+                    "from_date": "Apr 2023",
+                    "to_date": "Present",
+                    "location": ""
+                },
+                {
+                    "position_title": "Performance and QA Lead",
+                    "institution_name": "Beeye \u00b7 Permanent Full-time",
+                    "description": "",
+                    "duration": "8 mos",
+                    "from_date": "Sep 2022",
+                    "to_date": "Apr 2023",
+                    "location": ""
+                },
+                {
+                    "position_title": "Launch and Grow Fellow",
+                    "institution_name": "District 3 Innovation \u00b7 Contract Part-time",
+                    "description": "Skills: Data Science \u00b7 Start-up Environment \u00b7 Start-ups\nSkills:Data Science \u00b7 Start-up Environment \u00b7 Start-ups",
+                    "duration": "3 mos",
+                    "from_date": "Jul 2022",
+                    "to_date": "Sep 2022",
+                    "location": ""
+                },
+                {
+                    "position_title": "Co-Founder",
+                    "institution_name": "PPR Technologies inc.",
+                    "description": "-QSCE Program (Cohort SS2021)\n-District 3 Validation Program (Cohort W2022)\n-Incubated at District3, Launch and Grow Program (Cohort SS2022)\n-QSCE Program (Cohort SS2021) -District 3 Validation Program (Cohort W2022) -Incubated at District3, Launch and Grow Program (Cohort SS2022)\nSkills: Data Science \u00b7 Start-up Environment \u00b7 Start-ups\nSkills:Data Science \u00b7 Start-up Environment \u00b7 Start-ups",
+                    "duration": "1 yr 4 mos",
+                    "from_date": "Jun 2021",
+                    "to_date": "Sep 2022",
+                    "location": ""
+                },
+                {
+                    "position_title": "Research Scientist",
+                    "institution_name": "Centre de recherche du CHUM (CRCHUM)",
+                    "description": "Skills: Data Science\nSkills:Data Science",
+                    "duration": "1 yr",
+                    "from_date": "Jun 2020",
+                    "to_date": "May 2021",
+                    "location": ""
+                },
+                {
+                    "position_title": "Associate Professor",
+                    "institution_name": "Universit\u00e9 Paris-Sud",
+                    "description": "Research : member of the PARSYS team of the Laboratoire de Recherche en Informatique in Orsay, France.\nTeaching: C, computer architecture, numerical linear algebra, and parallel programming (OpenMP, MPI, CUDA).\nSupervised 1 PhD student, 1 postdoctoral researcher and 3 MSc students.\nResearch : member of the PARSYS team of the Laboratoire de Recherche en Informatique in Orsay, France. Teaching: C, computer architecture, numerical linear algebra, and parallel programming (OpenMP, MPI, CUDA). Supervised 1 PhD student, 1 postdoctoral researcher and 3 MSc students.",
+                    "duration": "4 yrs 10 mos",
+                    "from_date": "Sep 2014",
+                    "to_date": "Jun 2019",
+                    "location": ""
+                },
+                {
+                    "position_title": "Postdoctoral Research Associate",
+                    "institution_name": "University of Manchester, School of Mathematics",
+                    "description": "",
+                    "duration": "1 yr 9 mos",
+                    "from_date": "Jan 2013",
+                    "to_date": "Sep 2014",
+                    "location": ""
+                },
+                {
+                    "position_title": "Researcher\nResearcher",
+                    "institution_name": "University of Manchester, School of Mathematics",
+                    "description": "<not serializable>",
+                    "duration": "3 yrs 3 mos",
+                    "from_date": "Oct 2009",
+                    "to_date": "Dec 2012",
+                    "location": "Saclay, \u00eele de France"
+                },
+                {
+                    "position_title": "Master Thesis\nMaster Thesis",
+                    "institution_name": "University of Manchester, School of Mathematics",
+                    "description": "<not serializable>",
+                    "duration": "8 mos",
+                    "from_date": "Feb 2009",
+                    "to_date": "Sep 2009",
+                    "location": "R\u00e9gion de Bordeaux, France"
+                },
+                {
+                    "position_title": "Teaching Assistant",
+                    "institution_name": "Universit\u00e9 Paris-Sud",
+                    "description": "",
+                    "duration": "3 yrs",
+                    "from_date": "Oct 2009",
+                    "to_date": "Sep 2012",
+                    "location": "Saclay"
+                },
+                {
+                    "position_title": "Visiting Scholar",
+                    "institution_name": "UC Berkeley",
+                    "description": "",
+                    "duration": "1 mo",
+                    "from_date": "Aug 2011",
+                    "to_date": "",
+                    "location": "The Parallel Computing Laboratory"
+                },
+                {
+                    "position_title": "Visiting Scholar",
+                    "institution_name": "UC Berkeley",
+                    "description": "",
+                    "duration": "1 mo",
+                    "from_date": "Nov 2010",
+                    "to_date": "",
+                    "location": "The Parallel Computing Laboratory"
+                },
+                {
+                    "position_title": "Research Internship",
+                    "institution_name": "Netfective Technology",
+                    "description": "",
+                    "duration": "3 mos",
+                    "from_date": "Jun 2008",
+                    "to_date": "Aug 2008",
+                    "location": ""
+                }
+            ]
+        },
+        "3": {
+            "name": "Elie Bou Assi",
+            "about": "Elie Bou Assi is an assistant professor in the Department of Neuroscience at the Universit\u00e9 de Montr\u00e9al and a principal scientist at the Centre Hospitalier de l\u2019Universit\u00e9 de Montr\u00e9al (CHUM). \nHis research interests cover the application of artificial intelligence techniques and the internet of things to improve the management of neurological and psychiatric conditions.\n\u2026see more",
+            "current_job_title": "IVADO Assistant Professor",
+            "current_company": "Universit\u00e9 de Montr\u00e9al \u00b7 Permanent Full-time",
+            "experiences": [
+                {
+                    "position_title": "IVADO Assistant Professor",
+                    "institution_name": "Universit\u00e9 de Montr\u00e9al \u00b7 Permanent Full-time",
+                    "description": "",
+                    "duration": "3 yrs 3 mos",
+                    "from_date": "Sep 2020",
+                    "to_date": "Present",
+                    "location": "Montreal, Quebec, Canada"
+                },
+                {
+                    "position_title": "Ph.D student researcher",
+                    "institution_name": "Polytechnique Montr\u00e9al",
+                    "description": "",
+                    "duration": "1 yr 6 mos",
+                    "from_date": "Sep 2014",
+                    "to_date": "Feb 2016",
+                    "location": "Montreal, Canada Area"
+                },
+                {
+                    "position_title": "Student intern",
+                    "institution_name": "Polytechnique Montr\u00e9al",
+                    "description": "",
+                    "duration": "4 mos",
+                    "from_date": "Mar 2014",
+                    "to_date": "Jun 2014",
+                    "location": "Montreal, Canada Area"
+                },
+                {
+                    "position_title": "Trainee Engineer",
+                    "institution_name": "Intermedic SAL",
+                    "description": "- Medical Imaging Systems (Diagnostic X-Ray, Ultrasound, MRI, CT Scan)\n- Digital Detectors\n- Laser Printer\n- Endoscopy Systems\n- Cardiac Monitoring Systems, ECG and defibrillator\n- Respirator and Anesthesia Machine\n- Electrical Beds and Medical Furnitures\n- Medical Imaging Systems (Diagnostic X-Ray, Ultrasound, MRI, CT Scan) - Digital Detectors - Laser Printer - Endoscopy Systems - Cardiac Monitoring Systems, ECG and defibrillator - Respirator and Anesthesia Machine - Electrical Beds and Medical Furnitures",
+                    "duration": "2 mos",
+                    "from_date": "Jun 2013",
+                    "to_date": "Jul 2013",
+                    "location": "Ashrafieh - Lebanon"
+                },
+                {
+                    "position_title": "Trainee Engineer",
+                    "institution_name": "Medical Professionals SAL",
+                    "description": "- Course Preparation: \n + Radiation Protection in Radiology\n + Radiation Protection in Nuclear Medicine\n + Breast Ultrasound\n + CT Virtual Colonoscopy\n + ECG Interpretation\n- Course Preparation: + Radiation Protection in Radiology + Radiation Protection in Nuclear Medicine + Breast Ultrasound + CT Virtual Colonoscopy + ECG Interpretation",
+                    "duration": "2 mos",
+                    "from_date": "Apr 2013",
+                    "to_date": "May 2013",
+                    "location": "Beirut Downtown"
+                },
+                {
+                    "position_title": "Trainee Engineer",
+                    "institution_name": "Baabda Governmental Hospital",
+                    "description": "- Application on a variety of hospital equipment\n- Imaging modalities\n- Preparation of checklists\n- Preventive maintenance\n- Participation in meetings and conferences regarding health care accreditation procedures\n- Application on a variety of hospital equipment - Imaging modalities - Preparation of checklists - Preventive maintenance - Participation in meetings and conferences regarding health care accreditation procedures",
+                    "duration": "2 mos",
+                    "from_date": "Jun 2012",
+                    "to_date": "Jul 2012",
+                    "location": "Baabda - Lebanon"
+                },
+                {
+                    "position_title": "Trainee Engineer",
+                    "institution_name": "Fresenius Medical Care",
+                    "description": "- Hemodialysis principles and water treatment technology\n- Preventive and corrective maintenance\n- Hemodialysis principles and water treatment technology - Preventive and corrective maintenance",
+                    "duration": "2 mos",
+                    "from_date": "Aug 2011",
+                    "to_date": "Sep 2011",
+                    "location": "Hamra - Lebanon"
+                }
+            ]
+        },
+        "5": {
+            "name": "Laura Gagliano",
+            "about": null,
+            "current_job_title": "PHD Candidate",
+            "current_company": "Polytechnique Montr\u00e9al",
+            "experiences": [
+                {
+                    "position_title": "PHD Candidate",
+                    "institution_name": "Polytechnique Montr\u00e9al",
+                    "description": "Skills: Data Pipelines \u00b7 SQL \u00b7 Medical Imaging \u00b7 Research Skills \u00b7 Research and Development (R&D) \u00b7 Collaborative Problem Solving \u00b7 Interdisciplinary Collaboration \u00b7 Neuroscience \u00b7 Data Science \u00b7 Managing Large Scale Projects \u00b7 Data Modeling \u00b7 Statistical Data Analysis \u00b7 Python (Programming Language) \u00b7 MATLAB \u00b7 EEG \u00b7 Medical Ethics \u00b7 Signal Processing \u00b7 Medical Devices \u00b7 Problem Solving \u00b7 Artificial Intelligence\nSkills:Data Pipelines \u00b7 SQL \u00b7 Medical Imaging \u00b7 Research Skills \u00b7 Research and Development (R&D) \u00b7 Collaborative Problem Solving \u00b7 Interdisciplinary Collaboration \u00b7 Neuroscience \u00b7 Data Science \u00b7 Managing Large Scale Projects \u00b7 Data Modeling \u00b7 Statistical Data Analysis \u00b7 Python (Programming Language) \u00b7 MATLAB \u00b7 EEG \u00b7 Medical Ethics \u00b7 Signal Processing \u00b7 Medical Devices \u00b7 Problem Solving \u00b7 Artificial Intelligence",
+                    "duration": "4 yrs 5 mos",
+                    "from_date": "Jan 2019",
+                    "to_date": "May 2023",
+                    "location": "Montreal, Quebec, Canada"
+                },
+                {
+                    "position_title": "Master's Student",
+                    "institution_name": "PolyStim Neurotechnologies Laboratory",
+                    "description": "Epileptic Seizure forecasting\nElectrophysiological signal processing\nArtificial Intelligence & Deep Learning\nStatistical Analysis \nEpileptic Seizure forecasting Electrophysiological signal processing Artificial Intelligence & Deep Learning Statistical Analysis\nSkills: Data Pipelines \u00b7 SQL\nSkills:Data Pipelines \u00b7 SQL",
+                    "duration": "8 mos",
+                    "from_date": "May 2018",
+                    "to_date": "Dec 2018",
+                    "location": "Montreal, Canada Area"
+                },
+                {
+                    "position_title": "Reasearch Intern",
+                    "institution_name": "Laboratoire de simulation et mod\u00e9lisation de mouvement, Universit\u00e9 de Montr\u00e9al ",
+                    "description": "Development of electromyogram processing and analysis algorithm\nDevelopment of electromyogram processing and analysis algorithm",
+                    "duration": "4 mos",
+                    "from_date": "May 2016",
+                    "to_date": "Aug 2016",
+                    "location": "Laval, Qu\u00e9bec"
+                }
+            ]
+        },
+        "7": {
+            "name": "Philippe C. Dixon",
+            "about": null,
+            "current_job_title": "Assistant Professor",
+            "current_company": "Universit\u00e9 de Montr\u00e9al \u00b7 Full-time",
+            "experiences": [
+                {
+                    "position_title": "Assistant Professor",
+                    "institution_name": "Universit\u00e9 de Montr\u00e9al \u00b7 Full-time",
+                    "description": "",
+                    "duration": "3 yrs 8 mos",
+                    "from_date": "Apr 2020",
+                    "to_date": "Present",
+                    "location": ""
+                },
+                {
+                    "position_title": "Researcher, biomedical data and artificial intelligence",
+                    "institution_name": "Hexoskin",
+                    "description": "",
+                    "duration": "5 yrs 8 mos",
+                    "from_date": "Apr 2018",
+                    "to_date": "Present",
+                    "location": "Montreal, Canada Area"
+                },
+                {
+                    "position_title": "Research Fellow",
+                    "institution_name": "Harvard T.H. Chan School of Public Health",
+                    "description": "",
+                    "duration": "2 yrs 10 mos",
+                    "from_date": "Jul 2015",
+                    "to_date": "Apr 2018",
+                    "location": ""
+                },
+                {
+                    "position_title": "Visiting Researcher",
+                    "institution_name": "Orthopaedic Children's Hospital of Aschau (Germany)",
+                    "description": "",
+                    "duration": "1 yr",
+                    "from_date": "Sep 2010",
+                    "to_date": "Aug 2011",
+                    "location": "Aschau im Chiemgau, Germany"
+                }
+            ]
+        },
+        "9": {
+            "name": "Anne Nguyen, LSSBB",
+            "about": "Dynamic leader leveraging extensive experience managing complex projects with solid understanding of the impact of data and analytics on business strategy and operations. Expertise in interpreting findings and using them to uncover valuable business insights. Strong belief that all good technology starts with a human purpose and learning can and should be transformed in positive, impactful, influential and powerful actions.",
+            "current_job_title": "Chief Health Data Officer ",
+            "current_company": "CHUM - Centre hospitalier de l'Universit\u00e9 de Montr\u00e9al \u00b7 Permanent Full-time",
+            "experiences": [
+                {
+                    "position_title": "Chief Health Data Officer ",
+                    "institution_name": "CHUM - Centre hospitalier de l'Universit\u00e9 de Montr\u00e9al \u00b7 Permanent Full-time",
+                    "description": "",
+                    "duration": "11 mos",
+                    "from_date": "Jan 2023",
+                    "to_date": "Present",
+                    "location": "Montr\u00e9al, Qu\u00e9bec, Canada \u00b7 Hybrid"
+                },
+                {
+                    "position_title": "VP Strategy Development & Operations (pro bono position)",
+                    "institution_name": "Quartier de l'innovation en sant\u00e9 de Montr\u00e9al",
+                    "description": "- Develop a community growth strategy\n- Set up processes for the operationalization of the district\n- Develop a community growth strategy - Set up processes for the operationalization of the district\nSkills: Planification des affaires \u00b7 Gestion des op\u00e9rations \u00b7 Strat\u00e9gie marketing \u00b7 Communication strat\u00e9gique \u00b7 Intelligence artificielle (IA)\nSkills:Planification des affaires \u00b7 Gestion des op\u00e9rations \u00b7 Strat\u00e9gie marketing \u00b7 Communication strat\u00e9gique \u00b7 Intelligence artificielle (IA)",
+                    "duration": "1 yr 4 mos",
+                    "from_date": "Aug 2022",
+                    "to_date": "Present",
+                    "location": "Montr\u00e9al, Qu\u00e9bec, Canada"
+                },
+                {
+                    "position_title": "Co-Founder & CEO ",
+                    "institution_name": "The Courageous AI",
+                    "description": "",
+                    "duration": "1 yr 2 mos",
+                    "from_date": "Oct 2022",
+                    "to_date": "Present",
+                    "location": "Montr\u00e9al, Qu\u00e9bec, Canada"
+                },
+                {
+                    "position_title": "Personal goal pursuit",
+                    "institution_name": "Career Break",
+                    "description": "Projets personnels - Personal Projects:\n- The Courageous AI | data for humanity \u00ac Co-Founder & Chief Executive Officer\n- HID: Health Innovation District \u00ac VP Strategy Development & Operations\n- Espace TiTi | Podcast & Blog \u00ac Founder & Content Generator\nProjets personnels - Personal Projects: - The Courageous AI | data for humanity \u00ac Co-Founder & Chief Executive Officer - HID: Health Innovation District \u00ac VP Strategy Development & Operations - Espace TiTi | Podcast & Blog \u00ac Founder & Content Generator\nInnovons ici - Luc Sirois & Anne \nInnovons ici - Luc Sirois & Anne\nEspace TiTi\nEspace TiTi\nBalado & Ecriture\nBalado & Ecriture\nThe Courageous AI\nThe Courageous AI\nData for Humanity (and Happiness)\nData for Humanity (and Happiness)",
+                    "duration": "3 mos",
+                    "from_date": "Oct 2022",
+                    "to_date": "Dec 2022",
+                    "location": "Montreal, Quebec"
+                },
+                {
+                    "position_title": "Products, Analytics & Innovation Director",
+                    "institution_name": "Logibec \u00b7 Permanent Full-time",
+                    "description": "Managed Teams; Supported CPO and CEO.\n\u2022 Conceptualized the product portfolio strategy for Performance and Analytics.\n\u2022 Scouted, incubated and nurtured opportunities.\n\u2022 Led research, strategic planning and strategic initiatives, ideas, and innovation.\n\u2022 Identified and assessed new partners and facilitated strategic dialogue.\nManaged Teams; Supported CPO and CEO. \u2022 Conceptualized the product portfolio strategy for Performance and Analytics. \u2022 Scouted, incubated and nurtured opportunities. \u2022 Led research, strategic planning and strategic initiatives, ideas, and innovation. \u2022 Identified and assessed new partners and facilitated strategic dialogue.\nSkills: Comp\u00e9tences analytiques \u00b7 Analyse d\u2019affaires \u00b7 Partenariats strat\u00e9giques \u00b7 Intelligence artificielle (IA) \u00b7 Data analytics \u00b7 Leadership d\u2019\u00e9quipe\nSkills:Comp\u00e9tences analytiques \u00b7 Analyse d\u2019affaires \u00b7 Partenariats strat\u00e9giques \u00b7 Intelligence artificielle (IA) \u00b7 Data analytics \u00b7 Leadership d\u2019\u00e9quipe\nLogibec: How AI can help avoid inventory run-outs in hospitals\nAI Ecosystem at C2 Montreal\nAI Ecosystem at C2 Montreal\n15e MIAM - Les d\u00e9fis du d\u00e9ploiement de l\u2019IA en milieu clinique et organisationnel\nShow all 4 media",
+                    "duration": "2 yrs",
+                    "from_date": "Nov 2020",
+                    "to_date": "Oct 2022",
+                    "location": "Montr\u00e9al, Qu\u00e9bec, Canada"
+                },
+                {
+                    "position_title": "Assistant to the Director \u00ac Digital Hospital Ambassador\nAssistant to the Director \u00ac Digital Hospital Ambassador",
+                    "institution_name": "Institut Cardiologie de Montr\u00e9al",
+                    "description": "<not serializable>",
+                    "duration": "2 yrs 9 mos",
+                    "from_date": "Feb 2018",
+                    "to_date": "Oct 2020",
+                    "location": null
+                },
+                {
+                    "position_title": "Head of organization development, changement management and non-medical trainings \nHead of organization development, changement management and non-medical trainings",
+                    "institution_name": "Institut Cardiologie de Montr\u00e9al",
+                    "description": "<not serializable>",
+                    "duration": "1 yr 6 mos",
+                    "from_date": "Sep 2016",
+                    "to_date": "Feb 2018",
+                    "location": null
+                }
+            ]
+        },
+        "10": {
+            "name": "Mohamed Amine Elforaici",
+            "about": null,
+            "current_job_title": "Student Ambassador",
+            "current_company": "Polytechnique Montr\u00e9al",
+            "experiences": [
+                {
+                    "position_title": "Student Ambassador",
+                    "institution_name": "Polytechnique Montr\u00e9al",
+                    "description": "",
+                    "duration": "4 yrs 3 mos",
+                    "from_date": "Sep 2019",
+                    "to_date": "Present",
+                    "location": "Montreal, Quebec, Canada"
+                },
+                {
+                    "position_title": "Researcher at the Neurophotonics Laboratory",
+                    "institution_name": "Universit\u00e9 de Montr\u00e9al \u00b7 Internship",
+                    "description": "",
+                    "duration": "5 mos",
+                    "from_date": "May 2019",
+                    "to_date": "Sep 2019",
+                    "location": "Montreal, Canada Area"
+                },
+                {
+                    "position_title": "Researcher at the Imaging and orthop\u00e6dics Research Laboratory (LIO)",
+                    "institution_name": "Centre de recherche du CHUM (CRCHUM) \u00b7 Internship",
+                    "description": "\u2022 Collaborate with researchers and engineers working on AI projects.\n\u2022 Conceive tools to do posture recognition using different approaches.\n\u2022 Publish a paper at IEEE Life Sciences Conference 2018\n\u2022 Present the work in 2 conferences: \u2018Colloque d\u2019Informatique Cognitive 2018\u2019 at UQ\u00c0M and at the Montr\u00e9al AI Symposium 2018 at McGill University.\n\u2022 Collaborate with researchers and engineers working on AI projects. \u2022 Conceive tools to do posture recognition using different approaches. \u2022 Publish a paper at IEEE Life Sciences Conference 2018 \u2022 Present the work in 2 conferences: \u2018Colloque d\u2019Informatique Cognitive 2018\u2019 at UQ\u00c0M and at the Montr\u00e9al AI Symposium 2018 at McGill University.",
+                    "duration": "8 mos",
+                    "from_date": "May 2018",
+                    "to_date": "Dec 2018",
+                    "location": "Montreal, Canada Area"
+                }
+            ]
+        }
+    }
+}
