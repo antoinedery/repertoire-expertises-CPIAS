@@ -8,7 +8,7 @@ Cet outil représente une solution innovante pour identifier et collaborer avec 
 
 ## Instructions
 
-Consultez le fichier "Guide du développeur.pdf" pour les instructions et la configuration du projet.
+Consultez le fichier "Documentation/Guide du développeur.pdf" pour les instructions et la configuration du projet.
 
 ## Développeurs (Équipe #15)
 
